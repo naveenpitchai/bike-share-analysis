@@ -1,1 +1,3 @@
 *.ipynb linguist-language=Python
+python_files/* linguist-language=Python
+output_files/* linguist-language=Python
